@@ -1,0 +1,24 @@
+<changelist name="Default" date="1512280287266" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Default/shelved.patch" />
+  <option name="DESCRIPTION" value="Default" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="../../conf/apache/mods-enabled/.gitkeep" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default/.gitkeep" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="../../conf/apache/conf-enabled/.gitkeep" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default/1.gitkeep" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="../../conf/apache/sites-enabled/.gitkeep" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default/2.gitkeep" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="../../conf/mysql/conf.d/.keepme" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default/.keepme" />
+  </binary>
+</changelist>
